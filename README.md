@@ -1,5 +1,5 @@
 👋 Hi, I’m @seohyeun
-**어케 쓰는거임**
+
 
 
 [Image]: [https://picsum.photos/500/300](https://blog.naver.com/xvx404/221506680261?photoView=11) "이미지입니다!"
